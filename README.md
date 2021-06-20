@@ -1,1 +1,1 @@
-# First task of Vladilenm's marafon
+# The first task of Vladilenm's marafon
